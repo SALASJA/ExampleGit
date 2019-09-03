@@ -1,2 +1,2 @@
 # ExampleGit
-just fro yo practice because im hungry
+just FOR yo practice because im hungry
