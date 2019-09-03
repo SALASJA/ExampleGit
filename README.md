@@ -1,5 +1,4 @@
 # ExampleGit
 
-just FOR practice
-Dimithra's practice
+just fro yo practice because im hungry. Maybe I should go to wendys.
 
