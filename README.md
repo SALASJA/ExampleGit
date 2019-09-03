@@ -1,2 +1,5 @@
 # ExampleGit
-just for practice (^o^)/
+
+just fro yo practice because im hungry. Maybe I should go to wendys.
+
+
