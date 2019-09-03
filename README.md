@@ -1,4 +1,4 @@
 # ExampleGit
-just fro practice
+just FOR practice
 Dimithra's practice
 
