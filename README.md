@@ -1,2 +1,2 @@
 # ExampleGit
-just fro practice
+just for practice (^o^)/
