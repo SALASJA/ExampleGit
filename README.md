@@ -1,2 +1,5 @@
 # ExampleGit
-just for practice - sahi
+
+just FOR practice
+Dimithra's practice
+
